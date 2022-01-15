@@ -1,0 +1,8 @@
+gensim==4.1.2
+matplotlib==3.3.4
+networkx==2.5.1
+pandas==1.1.5
+scikit-learn==0.24.2
+stellargraph==1.2.1
+chardet==4.0.0
+psutil==5.9.0
